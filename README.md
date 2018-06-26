@@ -1,2 +1,2 @@
-# myTestReo
+# myTestRepo
 A Test Repository
